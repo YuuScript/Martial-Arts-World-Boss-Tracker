@@ -1,0 +1,5 @@
+Copyright (c) 2021 RapidOCR Authors. All rights reserved.
+RapidOCR: https://github.com/RapidAI/RapidOCR
+License: Apache-2.0.
+The bundled PP-OCR model files are derived from PaddleOCR: https://github.com/PaddlePaddle/PaddleOCR (Apache-2.0).
+Model filenames and original package metadata remain in the application support folder.
